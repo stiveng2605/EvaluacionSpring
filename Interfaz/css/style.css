@@ -1,0 +1,46 @@
+.todo {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    justify-content: center;
+    background-color: #97DEFF;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+label {
+    margin-bottom: 1%;
+    margin-top: 2%;
+    font-size: 20px;
+}
+
+input {
+    padding: 2%;
+}
+
+.buton {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.hola {
+    margin-right: 10%;
+}
+
+button {
+    margin-top: 2%;
+    width: 100%;
+    margin: 5px;
+}
+
+.carros {
+    display: flex;
+    justify-content: center;
+}
